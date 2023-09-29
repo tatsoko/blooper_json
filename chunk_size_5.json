@@ -1,12 +1,12 @@
 {
-  "text": " Why you should choose both Katana 2 as your first amplifier?",
+  "text": " Why you should choose Bose Katana II as your first amplifier?",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 0.189,
       "end": 4.019,
-      "text": " Why you should choose both Katana 2 as your first amplifier?",
+      "text": " Why you should choose Bose Katana II as your first amplifier?",
       "tokens": [
         0
       ],
@@ -19,77 +19,77 @@
         {
           "text": "Why",
           "start": 0.189,
-          "end": 0.33,
-          "confidence": 0.874
+          "end": 0.31,
+          "confidence": 0.997
         },
         {
           "text": "you",
           "start": 0.35,
-          "end": 0.41,
-          "confidence": 0.001
+          "end": 0.43,
+          "confidence": 0.721
         },
         {
           "text": "should",
           "start": 0.45,
           "end": 0.631,
-          "confidence": 0.848
+          "confidence": 0.844
         },
         {
           "text": "choose",
           "start": 0.691,
           "end": 1.012,
-          "confidence": 0.838
+          "confidence": 0.744
         },
         {
-          "text": "both",
-          "start": 1.112,
+          "text": "Bose",
+          "start": 1.072,
           "end": 1.392,
-          "confidence": 0.57
+          "confidence": 0.828
         },
         {
           "text": "Katana",
-          "start": 1.453,
-          "end": 2.355,
-          "confidence": 0.893
+          "start": 1.433,
+          "end": 1.974,
+          "confidence": 0.934
         },
         {
-          "text": "2",
-          "start": 2.355,
-          "end": 2.475,
-          "confidence": 0.0
+          "text": "II",
+          "start": 2.014,
+          "end": 2.315,
+          "confidence": 0.721
         },
         {
           "text": "as",
           "start": 2.475,
           "end": 2.555,
-          "confidence": 0.847
+          "confidence": 0.998
         },
         {
           "text": "your",
-          "start": 2.575,
-          "end": 2.796,
-          "confidence": 0.796
+          "start": 2.596,
+          "end": 2.756,
+          "confidence": 0.84
         },
         {
           "text": "first",
-          "start": 2.896,
-          "end": 3.257,
-          "confidence": 0.822
+          "start": 2.876,
+          "end": 3.237,
+          "confidence": 0.993
         },
         {
           "text": "amplifier?",
-          "start": 3.478,
+          "start": 3.458,
           "end": 4.019,
-          "confidence": 0.962
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 4.755,
-      "end": 6.151,
-      "text": " Here are top 3 reasons.",
+      "start": 4.775,
+      "end": 6.172,
+      "text": " Here are the top three reasons.",
       "tokens": [
         0
       ],
@@ -101,33 +101,39 @@
       "words": [
         {
           "text": "Here",
-          "start": 4.755,
-          "end": 4.978,
-          "confidence": 0.715
+          "start": 4.775,
+          "end": 4.917,
+          "confidence": 0.798
         },
         {
           "text": "are",
-          "start": 5.039,
+          "start": 4.978,
+          "end": 5.059,
+          "confidence": 0.85
+        },
+        {
+          "text": "the",
+          "start": 5.079,
           "end": 5.14,
-          "confidence": 0.122
+          "confidence": 0.002
         },
         {
           "text": "top",
-          "start": 5.2,
-          "end": 5.686,
-          "confidence": 0.828
+          "start": 5.18,
+          "end": 5.403,
+          "confidence": 0.947
         },
         {
-          "text": "3",
-          "start": 5.686,
-          "end": 5.747,
-          "confidence": 0.0
+          "text": "three",
+          "start": 5.443,
+          "end": 5.706,
+          "confidence": 0.873
         },
         {
           "text": "reasons.",
           "start": 5.747,
-          "end": 6.151,
-          "confidence": 0.967
+          "end": 6.172,
+          "confidence": 0.99
         }
       ]
     },
@@ -135,8 +141,8 @@
       "id": 2,
       "seek": 0,
       "start": 8.356,
-      "end": 13.299,
-      "text": " Here are top three reasons why you should take Bose Catana Mark II as your first guitar amplifier.",
+      "end": 13.279,
+      "text": " Here are top three reasons why you should take both Katana MKII as your first guitar amplifier.",
       "tokens": [
         0
       ],
@@ -149,110 +155,104 @@
         {
           "text": "Here",
           "start": 8.356,
-          "end": 8.436,
-          "confidence": 0.102
+          "end": 8.477,
+          "confidence": 0.787
         },
         {
           "text": "are",
-          "start": 8.457,
-          "end": 8.557,
-          "confidence": 0.33
+          "start": 8.497,
+          "end": 8.577,
+          "confidence": 0.475
         },
         {
           "text": "top",
           "start": 8.617,
           "end": 8.818,
-          "confidence": 0.766
+          "confidence": 0.829
         },
         {
           "text": "three",
-          "start": 8.838,
+          "start": 8.858,
           "end": 9.079,
-          "confidence": 0.85
+          "confidence": 0.913
         },
         {
           "text": "reasons",
-          "start": 9.12,
+          "start": 9.14,
           "end": 9.461,
-          "confidence": 0.873
+          "confidence": 0.929
         },
         {
           "text": "why",
           "start": 9.521,
           "end": 9.662,
-          "confidence": 0.886
+          "confidence": 1.0
         },
         {
           "text": "you",
           "start": 9.702,
           "end": 9.783,
-          "confidence": 0.332
+          "confidence": 0.98
         },
         {
           "text": "should",
-          "start": 9.843,
+          "start": 9.823,
           "end": 10.084,
-          "confidence": 0.809
+          "confidence": 0.744
         },
         {
           "text": "take",
           "start": 10.164,
-          "end": 10.426,
-          "confidence": 0.807
+          "end": 10.406,
+          "confidence": 0.991
         },
         {
-          "text": "Bose",
-          "start": 10.506,
-          "end": 10.727,
-          "confidence": 0.679
+          "text": "both",
+          "start": 10.466,
+          "end": 10.707,
+          "confidence": 0.849
         },
         {
-          "text": "Catana",
+          "text": "Katana",
           "start": 10.747,
-          "end": 11.229,
-          "confidence": 0.869
+          "end": 11.209,
+          "confidence": 0.866
         },
         {
-          "text": "Mark",
+          "text": "MKII",
           "start": 11.249,
-          "end": 11.531,
-          "confidence": 0.92
-        },
-        {
-          "text": "II",
-          "start": 11.551,
-          "end": 11.671,
-          "confidence": 0.551
+          "end": 11.691,
+          "confidence": 0.68
         },
         {
           "text": "as",
           "start": 11.732,
           "end": 11.792,
-          "confidence": 0.977
+          "confidence": 1.0
         },
         {
           "text": "your",
           "start": 11.832,
-          "end": 11.993,
-          "confidence": 0.91
+          "end": 11.973,
+          "confidence": 0.75
         },
         {
           "text": "first",
-          "start": 12.073,
+          "start": 12.053,
           "end": 12.334,
-          "confidence": 0.867
+          "confidence": 0.9
         },
         {
           "text": "guitar",
           "start": 12.375,
-          "end": 12.756,
-          "confidence": 0.889
+          "end": 12.716,
+          "confidence": 0.878
         },
         {
           "text": "amplifier.",
           "start": 12.817,
-          "end": 13.299,
-          "confidence": 0.929
+          "end": 13.279,
+          "confidence": 0.99
         }
       ]
     },
@@ -274,47 +274,47 @@
         {
           "text": "Reason",
           "start": 13.943,
-          "end": 14.185,
-          "confidence": 0.592
+          "end": 14.165,
+          "confidence": 0.963
         },
         {
           "text": "number",
           "start": 14.205,
-          "end": 14.427,
-          "confidence": 0.858
+          "end": 14.406,
+          "confidence": 0.67
         },
         {
           "text": "one",
-          "start": 14.628,
-          "end": 14.769,
-          "confidence": 0.606
+          "start": 14.648,
+          "end": 14.749,
+          "confidence": 0.999
         },
         {
           "text": "is",
           "start": 14.89,
           "end": 14.97,
-          "confidence": 0.966
+          "confidence": 0.886
         },
         {
           "text": "the",
-          "start": 15.031,
-          "end": 15.111,
-          "confidence": 0.84
+          "start": 15.01,
+          "end": 15.091,
+          "confidence": 0.835
         },
         {
           "text": "price.",
-          "start": 15.151,
+          "start": 15.131,
           "end": 15.453,
-          "confidence": 0.891
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 4,
       "seek": 0,
-      "start": 16.326,
-      "end": 17.448,
-      "text": " at $279 retail it is one of the cheapest",
+      "start": 16.346,
+      "end": 20.193,
+      "text": " at two hundred and seventy nine dollars retail it is one of the cheapest",
       "tokens": [
         0
       ],
@@ -326,66 +326,96 @@
       "words": [
         {
           "text": "at",
-          "start": 16.326,
-          "end": 16.406,
-          "confidence": 0.857
+          "start": 16.346,
+          "end": 16.426,
+          "confidence": 0.659
         },
         {
-          "text": "$279",
-          "start": 16.406,
-          "end": 16.446,
-          "confidence": 0.0
+          "text": "two",
+          "start": 16.667,
+          "end": 16.787,
+          "confidence": 0.818
+        },
+        {
+          "text": "hundred",
+          "start": 16.827,
+          "end": 17.088,
+          "confidence": 0.882
+        },
+        {
+          "text": "and",
+          "start": 17.108,
+          "end": 17.168,
+          "confidence": 0.81
+        },
+        {
+          "text": "seventy",
+          "start": 17.228,
+          "end": 17.508,
+          "confidence": 0.954
+        },
+        {
+          "text": "nine",
+          "start": 17.588,
+          "end": 17.789,
+          "confidence": 1.0
+        },
+        {
+          "text": "dollars",
+          "start": 17.849,
+          "end": 18.23,
+          "confidence": 0.999
         },
         {
           "text": "retail",
-          "start": 16.446,
-          "end": 16.787,
-          "confidence": 0.426
+          "start": 18.33,
+          "end": 18.811,
+          "confidence": 0.992
         },
         {
           "text": "it",
-          "start": 16.807,
-          "end": 16.847,
-          "confidence": 0.0
+          "start": 18.991,
+          "end": 19.051,
+          "confidence": 0.997
         },
         {
           "text": "is",
-          "start": 16.867,
-          "end": 16.907,
-          "confidence": 0.0
+          "start": 19.111,
+          "end": 19.191,
+          "confidence": 0.993
         },
         {
           "text": "one",
-          "start": 16.947,
-          "end": 17.007,
-          "confidence": 0.333
+          "start": 19.291,
+          "end": 19.372,
+          "confidence": 1.0
         },
         {
           "text": "of",
-          "start": 17.027,
-          "end": 17.068,
-          "confidence": 0.0
+          "start": 19.432,
+          "end": 19.492,
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 17.088,
-          "end": 17.148,
-          "confidence": 0.001
+          "start": 19.532,
+          "end": 19.632,
+          "confidence": 0.89
         },
         {
           "text": "cheapest",
-          "start": 17.168,
-          "end": 17.448,
-          "confidence": 0.604
+          "start": 19.712,
+          "end": 20.193,
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 5,
       "seek": 0,
-      "start": 21.196,
-      "end": 22.966,
-      "text": " 50 watt amplifier.",
+      "start": 20.895,
+      "end": 22.986,
+      "text": " fifty watt amplifier.",
       "tokens": [
         0
       ],
@@ -396,22 +426,22 @@
       "confidence": 0.0,
       "words": [
         {
-          "text": "50",
-          "start": 21.196,
-          "end": 21.236,
-          "confidence": 0.0
+          "text": "fifty",
+          "start": 20.895,
+          "end": 21.176,
+          "confidence": 0.977
         },
         {
           "text": "watt",
           "start": 21.236,
           "end": 21.538,
-          "confidence": 0.816
+          "confidence": 0.793
         },
         {
           "text": "amplifier.",
           "start": 22.664,
-          "end": 22.966,
-          "confidence": 0.598
+          "end": 22.986,
+          "confidence": 0.565
         }
       ]
     },
@@ -420,7 +450,7 @@
       "seek": 0,
       "start": 23.931,
       "end": 27.019,
-      "text": " It is one of the cheapest 50 watt amplifiers out there in the market.",
+      "text": " It is one of the cheapest amplifiers out there in the market.",
       "tokens": [
         0
       ],
@@ -434,92 +464,80 @@
           "text": "It",
           "start": 23.931,
           "end": 23.991,
-          "confidence": 0.895
+          "confidence": 0.905
         },
         {
           "text": "is",
           "start": 24.031,
           "end": 24.092,
-          "confidence": 0.752
+          "confidence": 0.881
         },
         {
           "text": "one",
           "start": 24.152,
           "end": 24.252,
-          "confidence": 0.824
+          "confidence": 0.674
         },
         {
           "text": "of",
           "start": 24.272,
           "end": 24.332,
-          "confidence": 0.774
+          "confidence": 1.0
         },
         {
           "text": "the",
           "start": 24.372,
           "end": 24.453,
-          "confidence": 0.968
+          "confidence": 0.833
         },
         {
           "text": "cheapest",
           "start": 24.493,
-          "end": 24.793,
-          "confidence": 0.902
-        },
-        {
-          "text": "50",
-          "start": 24.793,
-          "end": 25.094,
-          "confidence": 0.0
-        },
-        {
-          "text": "watt",
-          "start": 25.094,
-          "end": 25.315,
-          "confidence": 0.821
+          "end": 25.295,
+          "confidence": 0.942
         },
         {
           "text": "amplifiers",
           "start": 25.415,
-          "end": 26.036,
-          "confidence": 0.869
+          "end": 26.016,
+          "confidence": 0.999
         },
         {
           "text": "out",
           "start": 26.117,
           "end": 26.237,
-          "confidence": 0.407
+          "confidence": 0.936
         },
         {
           "text": "there",
           "start": 26.257,
           "end": 26.417,
-          "confidence": 0.737
+          "confidence": 0.895
         },
         {
           "text": "in",
           "start": 26.437,
           "end": 26.498,
-          "confidence": 0.982
+          "confidence": 0.852
         },
         {
           "text": "the",
-          "start": 26.538,
+          "start": 26.518,
           "end": 26.598,
-          "confidence": 0.946
+          "confidence": 0.896
         },
         {
           "text": "market.",
           "start": 26.638,
           "end": 27.019,
-          "confidence": 0.9
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 7,
       "seek": 0,
-      "start": 28.452,
+      "start": 28.472,
       "end": 31.149,
       "text": " And although it is cheap, it sounds truly great.",
       "tokens": [
@@ -533,57 +551,57 @@
       "words": [
         {
           "text": "And",
-          "start": 28.452,
-          "end": 28.633,
-          "confidence": 0.652
+          "start": 28.472,
+          "end": 28.613,
+          "confidence": 1.0
         },
         {
           "text": "although",
           "start": 28.955,
-          "end": 29.237,
-          "confidence": 0.78
+          "end": 29.217,
+          "confidence": 0.908
         },
         {
           "text": "it",
           "start": 29.257,
           "end": 29.318,
-          "confidence": 0.75
+          "confidence": 0.884
         },
         {
           "text": "is",
           "start": 29.378,
-          "end": 29.459,
-          "confidence": 0.662
+          "end": 29.439,
+          "confidence": 0.998
         },
         {
           "text": "cheap,",
-          "start": 29.539,
-          "end": 29.841,
-          "confidence": 0.887
+          "start": 29.519,
+          "end": 29.821,
+          "confidence": 0.875
         },
         {
           "text": "it",
-          "start": 30.022,
+          "start": 30.002,
           "end": 30.083,
-          "confidence": 0.936
+          "confidence": 0.756
         },
         {
           "text": "sounds",
           "start": 30.143,
-          "end": 30.465,
-          "confidence": 0.748
+          "end": 30.445,
+          "confidence": 0.978
         },
         {
           "text": "truly",
           "start": 30.606,
-          "end": 30.908,
-          "confidence": 0.869
+          "end": 30.888,
+          "confidence": 0.953
         },
         {
           "text": "great.",
           "start": 30.928,
           "end": 31.149,
-          "confidence": 0.891
+          "confidence": 0.961
         }
       ]
     },
@@ -591,8 +609,8 @@
       "id": 8,
       "seek": 0,
       "start": 32.441,
-      "end": 33.143,
-      "text": " Reason number 2.",
+      "end": 35.287,
+      "text": " Reason number two, while it might seem",
       "tokens": [
         0
       ],
@@ -605,76 +623,53 @@
         {
           "text": "Reason",
           "start": 32.441,
-          "end": 32.702,
-          "confidence": 0.666
+          "end": 32.682,
+          "confidence": 0.923
         },
         {
           "text": "number",
           "start": 32.722,
           "end": 32.982,
-          "confidence": 0.901
+          "confidence": 0.932
         },
         {
-          "text": "2.",
-          "start": 32.982,
-          "end": 33.143,
-          "confidence": 0.0
+          "text": "two,",
+          "start": 33.022,
+          "end": 34.145,
+          "confidence": 0.915
+        },
+        {
+          "text": "while",
+          "start": 34.506,
+          "end": 34.726,
+          "confidence": 0.976
+        },
+        {
+          "text": "it",
+          "start": 34.786,
+          "end": 34.866,
+          "confidence": 0.788
+        },
+        {
+          "text": "might",
+          "start": 34.927,
+          "end": 35.107,
+          "confidence": 0.925
+        },
+        {
+          "text": "seem",
+          "start": 35.127,
+          "end": 35.287,
+          "confidence": 0.995
         }
       ]
     },
     {
       "id": 9,
       "seek": 0,
-      "start": 33.143,
-      "end": 35.287,
-      "text": "Eat while it might seem.",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "Eat",
-          "start": 33.143,
-          "end": 34.145,
-          "confidence": 0.565
-        },
-        {
-          "text": "while",
-          "start": 34.506,
-          "end": 34.746,
-          "confidence": 0.771
-        },
-        {
-          "text": "it",
-          "start": 34.786,
-          "end": 34.866,
-          "confidence": 0.762
-        },
-        {
-          "text": "might",
-          "start": 34.947,
-          "end": 35.107,
-          "confidence": 0.848
-        },
-        {
-          "text": "seem.",
-          "start": 35.147,
-          "end": 35.287,
-          "confidence": 0.949
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 0,
       "start": 36.245,
-      "end": 41.084,
-      "text": " Reason number two, while it might seem that it is a full modeling amplifier, in fact,",
+      "end": 37.429,
+      "text": " Reason number two.",
       "tokens": [
         0
       ],
@@ -688,106 +683,28 @@
           "text": "Reason",
           "start": 36.245,
           "end": 36.466,
-          "confidence": 0.693
+          "confidence": 0.698
         },
         {
           "text": "number",
-          "start": 36.486,
+          "start": 36.506,
           "end": 36.706,
-          "confidence": 0.78
+          "confidence": 0.811
         },
         {
-          "text": "two,",
+          "text": "two.",
           "start": 36.747,
           "end": 36.927,
-          "confidence": 0.969
-        },
-        {
-          "text": "while",
-          "start": 37.429,
-          "end": 37.61,
-          "confidence": 0.883
-        },
-        {
-          "text": "it",
-          "start": 37.65,
-          "end": 37.711,
-          "confidence": 0.834
-        },
-        {
-          "text": "might",
-          "start": 37.751,
-          "end": 37.931,
-          "confidence": 0.885
-        },
-        {
-          "text": "seem",
-          "start": 37.951,
-          "end": 38.112,
-          "confidence": 0.4
-        },
-        {
-          "text": "that",
-          "start": 38.152,
-          "end": 38.293,
-          "confidence": 0.854
-        },
-        {
-          "text": "it",
-          "start": 38.494,
-          "end": 38.574,
-          "confidence": 0.843
-        },
-        {
-          "text": "is",
-          "start": 38.674,
-          "end": 38.755,
-          "confidence": 0.848
-        },
-        {
-          "text": "a",
-          "start": 38.775,
-          "end": 38.795,
-          "confidence": 0.0
-        },
-        {
-          "text": "full",
-          "start": 39.076,
-          "end": 39.297,
-          "confidence": 0.672
-        },
-        {
-          "text": "modeling",
-          "start": 39.357,
-          "end": 39.759,
-          "confidence": 0.913
-        },
-        {
-          "text": "amplifier,",
-          "start": 39.879,
-          "end": 40.482,
-          "confidence": 0.896
-        },
-        {
-          "text": "in",
-          "start": 40.682,
-          "end": 40.763,
-          "confidence": 0.836
-        },
-        {
-          "text": "fact,",
-          "start": 40.823,
-          "end": 41.084,
-          "confidence": 0.967
+          "confidence": 0.891
         }
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "seek": 0,
-      "start": 41.788,
-      "end": 43.881,
-      "text": " its preamps are using the",
+      "start": 37.429,
+      "end": 41.064,
+      "text": "While it might seem that it is a full modeling amplifier, in fact,",
       "tokens": [
         0
       ],
@@ -798,43 +715,138 @@
       "confidence": 0.0,
       "words": [
         {
-          "text": "its",
-          "start": 41.788,
-          "end": 41.929,
-          "confidence": 0.58
+          "text": "While",
+          "start": 37.429,
+          "end": 37.59,
+          "confidence": 0.995
+        },
+        {
+          "text": "it",
+          "start": 37.65,
+          "end": 37.69,
+          "confidence": 1.0
+        },
+        {
+          "text": "might",
+          "start": 37.751,
+          "end": 37.931,
+          "confidence": 0.799
+        },
+        {
+          "text": "seem",
+          "start": 37.951,
+          "end": 38.092,
+          "confidence": 0.917
+        },
+        {
+          "text": "that",
+          "start": 38.152,
+          "end": 38.273,
+          "confidence": 0.952
+        },
+        {
+          "text": "it",
+          "start": 38.494,
+          "end": 38.554,
+          "confidence": 0.992
+        },
+        {
+          "text": "is",
+          "start": 38.654,
+          "end": 38.735,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 38.935,
+          "end": 38.996,
+          "confidence": 0.667
+        },
+        {
+          "text": "full",
+          "start": 39.056,
+          "end": 39.277,
+          "confidence": 0.934
+        },
+        {
+          "text": "modeling",
+          "start": 39.337,
+          "end": 39.779,
+          "confidence": 0.938
+        },
+        {
+          "text": "amplifier,",
+          "start": 39.879,
+          "end": 40.482,
+          "confidence": 0.944
+        },
+        {
+          "text": "in",
+          "start": 40.682,
+          "end": 40.743,
+          "confidence": 1.0
+        },
+        {
+          "text": "fact,",
+          "start": 40.823,
+          "end": 41.064,
+          "confidence": 0.938
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 41.768,
+      "end": 43.881,
+      "text": " It's preamps are using the",
+      "tokens": [
+        0
+      ],
+      "temperature": 0.0,
+      "avg_logprob": 0.0,
+      "compression_ratio": 0.0,
+      "no_speech_prob": 0.0,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "It's",
+          "start": 41.768,
+          "end": 41.909,
+          "confidence": 0.625
         },
         {
           "text": "preamps",
           "start": 42.07,
-          "end": 42.734,
-          "confidence": 0.872
+          "end": 42.694,
+          "confidence": 0.914
         },
         {
           "text": "are",
-          "start": 42.996,
-          "end": 43.137,
-          "confidence": 0.841
+          "start": 43.016,
+          "end": 43.117,
+          "confidence": 0.833
         },
         {
           "text": "using",
-          "start": 43.358,
+          "start": 43.338,
           "end": 43.62,
-          "confidence": 0.841
+          "confidence": 1.0
         },
         {
           "text": "the",
           "start": 43.72,
           "end": 43.881,
-          "confidence": 0.965
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 12,
       "seek": 0,
-      "start": 44.142,
-      "end": 45.688,
-      "text": " standard A and B circuits.",
+      "start": 44.122,
+      "end": 47.996,
+      "text": " standard A and B circuits, so it's actually a solid-state amplifier.",
       "tokens": [
         0
       ],
@@ -846,124 +858,78 @@
       "words": [
         {
           "text": "standard",
-          "start": 44.142,
+          "start": 44.122,
           "end": 44.624,
-          "confidence": 0.942
+          "confidence": 0.929
         },
         {
           "text": "A",
-          "start": 44.725,
+          "start": 44.745,
           "end": 44.805,
-          "confidence": 0.848
+          "confidence": 0.932
         },
         {
           "text": "and",
-          "start": 44.845,
+          "start": 44.865,
           "end": 44.945,
-          "confidence": 0.818
+          "confidence": 0.954
         },
         {
           "text": "B",
           "start": 45.005,
-          "end": 45.186,
-          "confidence": 0.835
+          "end": 45.146,
+          "confidence": 1.0
         },
         {
-          "text": "circuits.",
-          "start": 45.226,
-          "end": 45.648,
-          "confidence": 0.832
+          "text": "circuits,",
+          "start": 45.206,
+          "end": 45.628,
+          "confidence": 0.872
+        },
+        {
+          "text": "so",
+          "start": 45.668,
+          "end": 45.848,
+          "confidence": 0.97
+        },
+        {
+          "text": "it's",
+          "start": 45.969,
+          "end": 46.109,
+          "confidence": 0.818
+        },
+        {
+          "text": "actually",
+          "start": 46.23,
+          "end": 46.551,
+          "confidence": 0.97
+        },
+        {
+          "text": "a",
+          "start": 46.611,
+          "end": 46.651,
+          "confidence": 0.999
+        },
+        {
+          "text": "solid-state",
+          "start": 46.731,
+          "end": 47.394,
+          "confidence": 0.878
+        },
+        {
+          "text": "amplifier.",
+          "start": 47.474,
+          "end": 47.996,
+          "confidence": 0.997
         }
       ]
     },
     {
       "id": 13,
       "seek": 0,
-      "start": 45.688,
-      "end": 48.678,
-      "text": "So it's actually a solid state amplifier.",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "So",
-          "start": 45.688,
-          "end": 45.868,
-          "confidence": 0.804
-        },
-        {
-          "text": "it's",
-          "start": 45.969,
-          "end": 46.089,
-          "confidence": 0.769
-        },
-        {
-          "text": "actually",
-          "start": 46.23,
-          "end": 46.551,
-          "confidence": 0.899
-        },
-        {
-          "text": "a",
-          "start": 46.631,
-          "end": 46.671,
-          "confidence": 0.886
-        },
-        {
-          "text": "solid",
-          "start": 46.731,
-          "end": 47.093,
-          "confidence": 0.889
-        },
-        {
-          "text": "state",
-          "start": 47.133,
-          "end": 47.414,
-          "confidence": 0.742
-        },
-        {
-          "text": "amplifier.",
-          "start": 47.474,
-          "end": 48.036,
-          "confidence": 0.733
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "seek": 0,
-      "start": 48.678,
-      "end": 48.779,
-      "text": "And",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "And",
-          "start": 48.678,
-          "end": 48.779,
-          "confidence": 0.812
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 0,
       "start": 51.027,
-      "end": 53.755,
-      "text": " So it's actually a solid state amplifier and thus",
+      "end": 53.775,
+      "text": " So it's actually a solid-state amplifier and thus...",
       "tokens": [
         0
       ],
@@ -977,64 +943,58 @@
           "text": "So",
           "start": 51.027,
           "end": 51.188,
-          "confidence": 0.864
+          "confidence": 0.819
         },
         {
           "text": "it's",
           "start": 51.248,
           "end": 51.368,
-          "confidence": 0.743
+          "confidence": 0.79
         },
         {
           "text": "actually",
           "start": 51.469,
           "end": 51.81,
-          "confidence": 0.904
+          "confidence": 0.938
         },
         {
           "text": "a",
           "start": 51.89,
           "end": 51.95,
-          "confidence": 0.914
+          "confidence": 0.748
         },
         {
-          "text": "solid",
-          "start": 52.03,
-          "end": 52.371,
-          "confidence": 0.644
-        },
-        {
-          "text": "state",
-          "start": 52.391,
+          "text": "solid-state",
+          "start": 52.01,
           "end": 52.612,
-          "confidence": 0.634
+          "confidence": 0.842
         },
         {
           "text": "amplifier",
-          "start": 52.672,
-          "end": 53.214,
-          "confidence": 0.788
+          "start": 52.692,
+          "end": 53.194,
+          "confidence": 0.995
         },
         {
           "text": "and",
           "start": 53.314,
-          "end": 53.434,
-          "confidence": 0.726
+          "end": 53.414,
+          "confidence": 0.88
         },
         {
-          "text": "thus",
+          "text": "thus...",
           "start": 53.494,
-          "end": 53.755,
-          "confidence": 0.973
+          "end": 53.775,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 16,
+      "id": 14,
       "seek": 0,
-      "start": 54.438,
+      "start": 54.418,
       "end": 58.755,
-      "text": " it doesn't create too artificial sound that some modeling amps are",
+      "text": " it doesn't create too artificial sound that some modeling amps are.",
       "tokens": [
         0
       ],
@@ -1046,77 +1006,77 @@
       "words": [
         {
           "text": "it",
-          "start": 54.438,
-          "end": 54.518,
-          "confidence": 0.834
+          "start": 54.418,
+          "end": 54.498,
+          "confidence": 1.0
         },
         {
           "text": "doesn't",
           "start": 54.658,
           "end": 55.06,
-          "confidence": 0.773
+          "confidence": 0.849
         },
         {
           "text": "create",
           "start": 55.261,
           "end": 55.542,
-          "confidence": 0.695
+          "confidence": 0.926
         },
         {
           "text": "too",
-          "start": 55.703,
-          "end": 55.883,
-          "confidence": 0.966
+          "start": 55.683,
+          "end": 55.863,
+          "confidence": 0.893
         },
         {
           "text": "artificial",
-          "start": 56.044,
-          "end": 56.767,
-          "confidence": 0.924
+          "start": 56.064,
+          "end": 56.747,
+          "confidence": 0.975
         },
         {
           "text": "sound",
           "start": 56.907,
           "end": 57.249,
-          "confidence": 0.839
+          "confidence": 0.973
         },
         {
           "text": "that",
           "start": 57.289,
-          "end": 57.45,
-          "confidence": 0.998
+          "end": 57.47,
+          "confidence": 0.895
         },
         {
           "text": "some",
           "start": 57.51,
           "end": 57.691,
-          "confidence": 0.802
+          "confidence": 0.829
         },
         {
           "text": "modeling",
           "start": 57.711,
-          "end": 58.112,
-          "confidence": 0.841
+          "end": 58.092,
+          "confidence": 0.954
         },
         {
           "text": "amps",
-          "start": 58.273,
-          "end": 58.474,
-          "confidence": 0.754
+          "start": 58.253,
+          "end": 58.434,
+          "confidence": 0.67
         },
         {
-          "text": "are",
-          "start": 58.654,
+          "text": "are.",
+          "start": 58.675,
           "end": 58.755,
-          "confidence": 0.836
+          "confidence": 0.895
         }
       ]
     },
     {
-      "id": 17,
+      "id": 15,
       "seek": 0,
-      "start": 59.341,
-      "end": 60.074,
+      "start": 59.362,
+      "end": 60.094,
       "text": " usually creating.",
       "tokens": [
         0
@@ -1129,23 +1089,23 @@
       "words": [
         {
           "text": "usually",
-          "start": 59.341,
-          "end": 59.667,
-          "confidence": 0.801
+          "start": 59.362,
+          "end": 59.647,
+          "confidence": 0.977
         },
         {
           "text": "creating.",
-          "start": 59.708,
-          "end": 60.074,
-          "confidence": 0.967
+          "start": 59.687,
+          "end": 60.094,
+          "confidence": 0.977
         }
       ]
     },
     {
-      "id": 18,
+      "id": 16,
       "seek": 0,
       "start": 61.525,
-      "end": 65.284,
+      "end": 65.264,
       "text": " Reason number three is the Tone Studio application.",
       "tokens": [
         0
@@ -1160,57 +1120,57 @@
           "text": "Reason",
           "start": 61.525,
           "end": 61.787,
-          "confidence": 0.86
+          "confidence": 0.949
         },
         {
           "text": "number",
           "start": 61.827,
-          "end": 62.068,
-          "confidence": 0.858
+          "end": 62.048,
+          "confidence": 0.761
         },
         {
           "text": "three",
-          "start": 62.128,
+          "start": 62.108,
           "end": 62.47,
-          "confidence": 0.801
+          "confidence": 0.902
         },
         {
           "text": "is",
           "start": 62.973,
-          "end": 63.113,
-          "confidence": 0.782
+          "end": 63.073,
+          "confidence": 0.668
         },
         {
           "text": "the",
           "start": 63.234,
-          "end": 63.455,
-          "confidence": 0.961
+          "end": 63.435,
+          "confidence": 0.971
         },
         {
           "text": "Tone",
-          "start": 63.857,
+          "start": 63.817,
           "end": 64.038,
-          "confidence": 0.707
+          "confidence": 0.717
         },
         {
           "text": "Studio",
           "start": 64.058,
-          "end": 64.52,
-          "confidence": 0.74
+          "end": 64.5,
+          "confidence": 0.836
         },
         {
           "text": "application.",
           "start": 64.721,
-          "end": 65.284,
-          "confidence": 0.972
+          "end": 65.264,
+          "confidence": 0.962
         }
       ]
     },
     {
-      "id": 19,
+      "id": 17,
       "seek": 0,
       "start": 66.087,
-      "end": 69.355,
+      "end": 69.335,
       "text": " What it gives you basically is the control over all the",
       "tokens": [
         0
@@ -1225,75 +1185,75 @@
           "text": "What",
           "start": 66.087,
           "end": 66.228,
-          "confidence": 0.995
+          "confidence": 1.0
         },
         {
           "text": "it",
           "start": 66.308,
-          "end": 66.388,
-          "confidence": 0.847
+          "end": 66.368,
+          "confidence": 0.999
         },
         {
           "text": "gives",
           "start": 66.468,
           "end": 66.669,
-          "confidence": 0.923
+          "confidence": 0.906
         },
         {
           "text": "you",
           "start": 66.689,
           "end": 66.809,
-          "confidence": 0.866
+          "confidence": 0.89
         },
         {
           "text": "basically",
           "start": 66.849,
-          "end": 67.451,
-          "confidence": 0.888
+          "end": 67.391,
+          "confidence": 0.945
         },
         {
           "text": "is",
-          "start": 67.631,
-          "end": 67.731,
-          "confidence": 0.786
+          "start": 67.611,
+          "end": 67.691,
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 67.771,
-          "end": 67.872,
-          "confidence": 0.831
+          "start": 67.751,
+          "end": 67.832,
+          "confidence": 0.609
         },
         {
           "text": "control",
           "start": 67.892,
-          "end": 68.353,
-          "confidence": 0.859
+          "end": 68.333,
+          "confidence": 0.966
         },
         {
           "text": "over",
-          "start": 68.533,
+          "start": 68.513,
           "end": 68.774,
-          "confidence": 0.735
+          "confidence": 0.918
         },
         {
           "text": "all",
-          "start": 69.035,
-          "end": 69.175,
-          "confidence": 0.853
+          "start": 68.994,
+          "end": 69.155,
+          "confidence": 0.976
         },
         {
           "text": "the",
-          "start": 69.215,
-          "end": 69.355,
-          "confidence": 0.987
+          "start": 69.195,
+          "end": 69.335,
+          "confidence": 0.855
         }
       ]
     },
     {
-      "id": 20,
+      "id": 18,
       "seek": 0,
       "start": 69.757,
-      "end": 73.352,
+      "end": 73.373,
       "text": " additional effects and functions and pedals that you don't have from the",
       "tokens": [
         0
@@ -1308,80 +1268,80 @@
           "text": "additional",
           "start": 69.757,
           "end": 70.259,
-          "confidence": 0.96
+          "confidence": 0.94
         },
         {
           "text": "effects",
           "start": 70.58,
           "end": 70.922,
-          "confidence": 0.89
+          "confidence": 0.967
         },
         {
           "text": "and",
           "start": 70.982,
           "end": 71.062,
-          "confidence": 0.836
+          "confidence": 0.824
         },
         {
           "text": "functions",
-          "start": 71.163,
+          "start": 71.143,
           "end": 71.585,
-          "confidence": 0.814
+          "confidence": 0.99
         },
         {
           "text": "and",
           "start": 71.645,
           "end": 71.725,
-          "confidence": 0.851
+          "confidence": 0.929
         },
         {
           "text": "pedals",
-          "start": 71.806,
+          "start": 71.786,
           "end": 72.207,
-          "confidence": 0.734
+          "confidence": 0.816
         },
         {
           "text": "that",
-          "start": 72.248,
+          "start": 72.268,
           "end": 72.388,
-          "confidence": 0.796
+          "confidence": 0.918
         },
         {
           "text": "you",
           "start": 72.408,
-          "end": 72.529,
-          "confidence": 0.889
+          "end": 72.509,
+          "confidence": 0.809
         },
         {
           "text": "don't",
           "start": 72.549,
-          "end": 72.75,
-          "confidence": 0.84
+          "end": 72.73,
+          "confidence": 0.904
         },
         {
           "text": "have",
           "start": 72.77,
           "end": 72.89,
-          "confidence": 0.952
+          "confidence": 0.9
         },
         {
           "text": "from",
           "start": 72.931,
-          "end": 73.172,
-          "confidence": 0.866
+          "end": 73.192,
+          "confidence": 0.925
         },
         {
           "text": "the",
           "start": 73.232,
-          "end": 73.352,
-          "confidence": 0.852
+          "end": 73.373,
+          "confidence": 0.989
         }
       ]
     },
     {
-      "id": 21,
+      "id": 19,
       "seek": 0,
-      "start": 77.679,
+      "start": 77.659,
       "end": 80.927,
       "text": " What it does, it expands the functionality of the algorithm.",
       "tokens": [
@@ -1395,68 +1355,68 @@
       "words": [
         {
           "text": "What",
-          "start": 77.679,
-          "end": 77.819,
-          "confidence": 0.886
+          "start": 77.659,
+          "end": 77.799,
+          "confidence": 0.647
         },
         {
           "text": "it",
-          "start": 77.859,
+          "start": 77.839,
           "end": 77.899,
-          "confidence": 0.863
+          "confidence": 0.977
         },
         {
           "text": "does,",
           "start": 77.94,
-          "end": 78.26,
-          "confidence": 0.814
+          "end": 78.22,
+          "confidence": 0.893
         },
         {
           "text": "it",
           "start": 78.3,
-          "end": 78.381,
-          "confidence": 0.896
+          "end": 78.621,
+          "confidence": 0.863
         },
         {
           "text": "expands",
           "start": 78.962,
-          "end": 79.403,
-          "confidence": 0.847
+          "end": 79.383,
+          "confidence": 0.91
         },
         {
           "text": "the",
-          "start": 79.443,
-          "end": 79.544,
-          "confidence": 0.727
+          "start": 79.423,
+          "end": 79.523,
+          "confidence": 0.835
         },
         {
           "text": "functionality",
-          "start": 79.584,
-          "end": 80.305,
-          "confidence": 0.891
+          "start": 79.564,
+          "end": 80.285,
+          "confidence": 0.914
         },
         {
           "text": "of",
           "start": 80.406,
-          "end": 80.546,
-          "confidence": 0.83
+          "end": 80.486,
+          "confidence": 0.974
         },
         {
           "text": "the",
-          "start": 80.566,
+          "start": 80.546,
           "end": 80.646,
-          "confidence": 0.903
+          "confidence": 0.841
         },
         {
           "text": "algorithm.",
           "start": 80.666,
           "end": 80.927,
-          "confidence": 0.144
+          "confidence": 0.163
         }
       ]
     },
     {
-      "id": 22,
+      "id": 20,
       "seek": 0,
       "start": 81.108,
       "end": 84.489,
@@ -1474,57 +1434,57 @@
           "text": "amplifier",
           "start": 81.108,
           "end": 81.692,
-          "confidence": 0.923
+          "confidence": 0.956
         },
         {
           "text": "by",
           "start": 81.752,
           "end": 81.913,
-          "confidence": 0.738
+          "confidence": 1.0
         },
         {
           "text": "adding",
-          "start": 82.336,
+          "start": 82.356,
           "end": 82.638,
-          "confidence": 0.804
+          "confidence": 1.0
         },
         {
           "text": "all",
-          "start": 82.839,
+          "start": 82.819,
           "end": 82.96,
-          "confidence": 0.84
+          "confidence": 1.0
         },
         {
           "text": "the",
           "start": 83.0,
-          "end": 83.1,
-          "confidence": 0.831
+          "end": 83.06,
+          "confidence": 0.998
         },
         {
           "text": "missing",
-          "start": 83.141,
-          "end": 83.463,
-          "confidence": 0.878
+          "start": 83.121,
+          "end": 83.443,
+          "confidence": 1.0
         },
         {
           "text": "functionality",
           "start": 83.523,
-          "end": 84.308,
-          "confidence": 0.897
+          "end": 84.288,
+          "confidence": 0.977
         },
         {
           "text": "that",
           "start": 84.348,
           "end": 84.489,
-          "confidence": 0.874
+          "confidence": 0.994
         }
       ]
     },
     {
-      "id": 23,
+      "id": 21,
       "seek": 0,
       "start": 86.837,
-      "end": 90.991,
+      "end": 91.051,
       "text": " What it does is it adds all the functionality from more top tier",
       "tokens": [
         0
@@ -1538,89 +1498,89 @@
         {
           "text": "What",
           "start": 86.837,
-          "end": 86.978,
-          "confidence": 0.895
+          "end": 86.957,
+          "confidence": 0.993
         },
         {
           "text": "it",
           "start": 87.018,
-          "end": 87.078,
-          "confidence": 0.749
+          "end": 87.058,
+          "confidence": 0.968
         },
         {
           "text": "does",
           "start": 87.118,
-          "end": 87.419,
-          "confidence": 0.859
+          "end": 87.399,
+          "confidence": 0.838
         },
         {
           "text": "is",
-          "start": 87.62,
-          "end": 87.7,
-          "confidence": 0.968
+          "start": 87.6,
+          "end": 87.68,
+          "confidence": 0.99
         },
         {
           "text": "it",
           "start": 87.76,
           "end": 87.86,
-          "confidence": 0.847
+          "confidence": 0.853
         },
         {
           "text": "adds",
-          "start": 88.061,
-          "end": 88.242,
-          "confidence": 0.393
+          "start": 88.081,
+          "end": 88.262,
+          "confidence": 0.721
         },
         {
           "text": "all",
-          "start": 88.503,
-          "end": 88.663,
-          "confidence": 0.852
+          "start": 88.523,
+          "end": 88.683,
+          "confidence": 0.896
         },
         {
           "text": "the",
-          "start": 88.743,
+          "start": 88.723,
           "end": 88.924,
-          "confidence": 0.907
+          "confidence": 0.888
         },
         {
           "text": "functionality",
-          "start": 89.125,
+          "start": 89.105,
           "end": 89.747,
-          "confidence": 0.793
+          "confidence": 0.931
         },
         {
           "text": "from",
           "start": 89.787,
           "end": 89.968,
-          "confidence": 0.842
+          "confidence": 0.92
         },
         {
           "text": "more",
           "start": 90.028,
           "end": 90.248,
-          "confidence": 0.856
+          "confidence": 0.923
         },
         {
           "text": "top",
-          "start": 90.329,
-          "end": 90.61,
-          "confidence": 0.964
+          "start": 90.309,
+          "end": 90.59,
+          "confidence": 0.926
         },
         {
           "text": "tier",
-          "start": 90.67,
-          "end": 90.991,
-          "confidence": 0.808
+          "start": 90.65,
+          "end": 91.051,
+          "confidence": 0.876
         }
       ]
     },
     {
-      "id": 24,
+      "id": 22,
       "seek": 0,
-      "start": 91.914,
+      "start": 91.894,
       "end": 95.583,
-      "text": " katana models through the software so you are still able to",
+      "text": " Katana models through the software so you are still able to",
       "tokens": [
         0
       ],
@@ -1631,77 +1591,77 @@
       "confidence": 0.0,
       "words": [
         {
-          "text": "katana",
-          "start": 91.914,
-          "end": 92.335,
-          "confidence": 0.897
+          "text": "Katana",
+          "start": 91.894,
+          "end": 92.315,
+          "confidence": 0.948
         },
         {
           "text": "models",
-          "start": 92.375,
-          "end": 92.896,
-          "confidence": 0.845
+          "start": 92.355,
+          "end": 92.876,
+          "confidence": 0.918
         },
         {
           "text": "through",
-          "start": 93.177,
+          "start": 93.157,
           "end": 93.438,
-          "confidence": 0.845
+          "confidence": 0.832
         },
         {
           "text": "the",
-          "start": 93.478,
-          "end": 93.578,
-          "confidence": 0.849
+          "start": 93.458,
+          "end": 93.558,
+          "confidence": 0.768
         },
         {
           "text": "software",
-          "start": 93.618,
-          "end": 94.099,
-          "confidence": 0.749
+          "start": 93.598,
+          "end": 94.119,
+          "confidence": 0.847
         },
         {
           "text": "so",
           "start": 94.139,
-          "end": 94.32,
-          "confidence": 0.756
+          "end": 94.34,
+          "confidence": 0.947
         },
         {
           "text": "you",
           "start": 94.38,
           "end": 94.48,
-          "confidence": 0.884
+          "confidence": 1.0
         },
         {
           "text": "are",
           "start": 94.54,
-          "end": 94.641,
-          "confidence": 0.83
+          "end": 94.621,
+          "confidence": 0.885
         },
         {
           "text": "still",
-          "start": 94.681,
-          "end": 94.941,
-          "confidence": 0.857
+          "start": 94.661,
+          "end": 94.921,
+          "confidence": 1.0
         },
         {
           "text": "able",
-          "start": 95.122,
+          "start": 95.102,
           "end": 95.362,
-          "confidence": 0.853
+          "confidence": 1.0
         },
         {
           "text": "to",
           "start": 95.463,
           "end": 95.583,
-          "confidence": 0.998
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 25,
+      "id": 23,
       "seek": 0,
-      "start": 96.044,
+      "start": 96.024,
       "end": 98.348,
       "text": " control different variations.",
       "tokens": [
@@ -1715,26 +1675,26 @@
       "words": [
         {
           "text": "control",
-          "start": 96.044,
-          "end": 96.585,
-          "confidence": 0.839
+          "start": 96.024,
+          "end": 96.605,
+          "confidence": 0.886
         },
         {
           "text": "different",
           "start": 96.946,
           "end": 97.346,
-          "confidence": 0.914
+          "confidence": 0.951
         },
         {
           "text": "variations.",
           "start": 97.407,
           "end": 98.348,
-          "confidence": 0.957
+          "confidence": 0.989
         }
       ]
     },
     {
-      "id": 26,
+      "id": 24,
       "seek": 0,
       "start": 99.03,
       "end": 103.119,
@@ -1751,77 +1711,77 @@
         {
           "text": "and",
           "start": 99.03,
-          "end": 99.17,
-          "confidence": 0.803
+          "end": 99.15,
+          "confidence": 0.834
         },
         {
           "text": "other",
           "start": 99.31,
           "end": 99.511,
-          "confidence": 0.883
+          "confidence": 1.0
         },
         {
           "text": "parameters",
-          "start": 99.611,
-          "end": 100.172,
-          "confidence": 0.874
+          "start": 99.591,
+          "end": 100.152,
+          "confidence": 0.924
         },
         {
           "text": "that",
           "start": 100.192,
           "end": 100.333,
-          "confidence": 0.862
+          "confidence": 0.991
         },
         {
           "text": "are",
           "start": 100.393,
           "end": 100.493,
-          "confidence": 0.799
+          "confidence": 0.841
         },
         {
           "text": "not",
           "start": 100.533,
           "end": 100.693,
-          "confidence": 0.809
+          "confidence": 0.838
         },
         {
           "text": "available",
           "start": 100.774,
-          "end": 101.255,
-          "confidence": 0.857
+          "end": 101.235,
+          "confidence": 0.975
         },
         {
           "text": "from",
-          "start": 101.335,
+          "start": 101.315,
           "end": 101.656,
-          "confidence": 0.744
+          "confidence": 0.943
         },
         {
           "text": "the",
-          "start": 101.776,
-          "end": 101.976,
-          "confidence": 0.799
+          "start": 101.756,
+          "end": 101.996,
+          "confidence": 0.91
         },
         {
           "text": "amplifier",
           "start": 102.197,
           "end": 102.658,
-          "confidence": 0.775
+          "confidence": 0.773
         },
         {
           "text": "itself.",
           "start": 102.698,
           "end": 103.119,
-          "confidence": 0.994
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 27,
+      "id": 25,
       "seek": 0,
       "start": 103.921,
-      "end": 107.771,
-      "text": " And yet you are paying for the first entry level.",
+      "end": 107.791,
+      "text": " and yet you are paying for the first entry level",
       "tokens": [
         0
       ],
@@ -1832,71 +1792,71 @@
       "confidence": 0.0,
       "words": [
         {
-          "text": "And",
+          "text": "and",
           "start": 103.921,
-          "end": 104.081,
-          "confidence": 0.794
+          "end": 104.061,
+          "confidence": 0.96
         },
         {
           "text": "yet",
           "start": 104.502,
-          "end": 104.783,
-          "confidence": 0.99
+          "end": 104.763,
+          "confidence": 0.889
         },
         {
           "text": "you",
-          "start": 104.883,
+          "start": 104.863,
           "end": 104.984,
-          "confidence": 0.886
+          "confidence": 0.831
         },
         {
           "text": "are",
-          "start": 105.044,
+          "start": 105.024,
           "end": 105.124,
-          "confidence": 0.36
+          "confidence": 0.693
         },
         {
           "text": "paying",
           "start": 105.164,
           "end": 105.445,
-          "confidence": 0.862
+          "confidence": 0.967
         },
         {
           "text": "for",
           "start": 105.505,
           "end": 105.746,
-          "confidence": 0.792
+          "confidence": 0.917
         },
         {
           "text": "the",
           "start": 105.826,
-          "end": 106.187,
-          "confidence": 0.584
+          "end": 106.127,
+          "confidence": 0.785
         },
         {
           "text": "first",
           "start": 106.708,
-          "end": 107.009,
-          "confidence": 0.899
+          "end": 106.989,
+          "confidence": 0.94
         },
         {
           "text": "entry",
-          "start": 107.15,
+          "start": 107.13,
           "end": 107.45,
-          "confidence": 0.916
+          "confidence": 0.922
         },
         {
-          "text": "level.",
-          "start": 107.511,
-          "end": 107.771,
-          "confidence": 0.922
+          "text": "level",
+          "start": 107.491,
+          "end": 107.791,
+          "confidence": 0.989
         }
       ]
     },
     {
-      "id": 28,
+      "id": 26,
       "seek": 0,
-      "start": 108.855,
+      "start": 108.835,
       "end": 109.718,
       "text": " amplifier price.",
       "tokens": [
@@ -1910,24 +1870,24 @@
       "words": [
         {
           "text": "amplifier",
-          "start": 108.855,
+          "start": 108.835,
           "end": 109.377,
-          "confidence": 0.811
+          "confidence": 0.958
         },
         {
           "text": "price.",
           "start": 109.437,
           "end": 109.718,
-          "confidence": 0.966
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 29,
+      "id": 27,
       "seek": 0,
       "start": 110.942,
-      "end": 114.466,
-      "text": " And finally, it might be subjective, but it truly sounds great.",
+      "end": 115.608,
+      "text": " And finally, it might be subjective, but it truly sounds great and I think it's a great",
       "tokens": [
         0
       ],
@@ -1940,326 +1900,303 @@
         {
           "text": "And",
           "start": 110.942,
-          "end": 111.042,
-          "confidence": 0.752
+          "end": 111.022,
+          "confidence": 0.931
         },
         {
           "text": "finally,",
-          "start": 111.102,
-          "end": 111.543,
-          "confidence": 0.914
+          "start": 111.082,
+          "end": 111.503,
+          "confidence": 0.959
         },
         {
           "text": "it",
-          "start": 111.563,
-          "end": 111.603,
-          "confidence": 0.0
+          "start": 111.663,
+          "end": 111.783,
+          "confidence": 0.862
         },
         {
           "text": "might",
           "start": 111.883,
           "end": 112.084,
-          "confidence": 0.771
+          "confidence": 0.881
         },
         {
           "text": "be",
-          "start": 112.124,
+          "start": 112.104,
           "end": 112.204,
-          "confidence": 0.997
+          "confidence": 0.945
         },
         {
           "text": "subjective,",
           "start": 112.244,
           "end": 112.804,
-          "confidence": 0.969
+          "confidence": 0.942
         },
         {
           "text": "but",
           "start": 112.864,
-          "end": 113.045,
-          "confidence": 0.846
+          "end": 113.025,
+          "confidence": 1.0
         },
         {
           "text": "it",
           "start": 113.105,
           "end": 113.185,
-          "confidence": 0.872
+          "confidence": 1.0
         },
         {
           "text": "truly",
           "start": 113.445,
-          "end": 113.766,
-          "confidence": 0.602
+          "end": 113.726,
+          "confidence": 0.99
         },
         {
           "text": "sounds",
           "start": 113.806,
-          "end": 114.126,
-          "confidence": 0.618
+          "end": 114.086,
+          "confidence": 1.0
         },
         {
-          "text": "great.",
+          "text": "great",
           "start": 114.166,
           "end": 114.426,
-          "confidence": 0.893
+          "confidence": 0.934
+        },
+        {
+          "text": "and",
+          "start": 114.466,
+          "end": 114.547,
+          "confidence": 0.997
+        },
+        {
+          "text": "I",
+          "start": 114.607,
+          "end": 114.667,
+          "confidence": 0.951
+        },
+        {
+          "text": "think",
+          "start": 114.707,
+          "end": 114.907,
+          "confidence": 0.847
+        },
+        {
+          "text": "it's",
+          "start": 114.967,
+          "end": 115.107,
+          "confidence": 0.848
+        },
+        {
+          "text": "a",
+          "start": 115.267,
+          "end": 115.328,
+          "confidence": 0.646
+        },
+        {
+          "text": "great",
+          "start": 115.408,
+          "end": 115.608,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 0,
+      "start": 115.909,
+      "end": 119.011,
+      "text": " That is the value for the bug in the amplifiers right now.",
+      "tokens": [
+        0
+      ],
+      "temperature": 0.0,
+      "avg_logprob": 0.0,
+      "compression_ratio": 0.0,
+      "no_speech_prob": 0.0,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "That",
+          "start": 115.909,
+          "end": 116.01,
+          "confidence": 0.142
+        },
+        {
+          "text": "is",
+          "start": 116.03,
+          "end": 116.211,
+          "confidence": 0.808
+        },
+        {
+          "text": "the",
+          "start": 116.292,
+          "end": 116.453,
+          "confidence": 0.623
+        },
+        {
+          "text": "value",
+          "start": 116.534,
+          "end": 116.836,
+          "confidence": 0.767
+        },
+        {
+          "text": "for",
+          "start": 116.856,
+          "end": 117.017,
+          "confidence": 0.896
+        },
+        {
+          "text": "the",
+          "start": 117.037,
+          "end": 117.118,
+          "confidence": 0.973
+        },
+        {
+          "text": "bug",
+          "start": 117.158,
+          "end": 117.4,
+          "confidence": 0.869
+        },
+        {
+          "text": "in",
+          "start": 117.44,
+          "end": 117.541,
+          "confidence": 0.742
+        },
+        {
+          "text": "the",
+          "start": 117.561,
+          "end": 117.682,
+          "confidence": 0.82
+        },
+        {
+          "text": "amplifiers",
+          "start": 117.742,
+          "end": 118.387,
+          "confidence": 0.917
+        },
+        {
+          "text": "right",
+          "start": 118.528,
+          "end": 118.749,
+          "confidence": 0.949
+        },
+        {
+          "text": "now.",
+          "start": 118.83,
+          "end": 119.011,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 0,
+      "start": 119.493,
+      "end": 122.919,
+      "text": " It has an acoustic mode if you want to plug in an acoustic guitar.",
+      "tokens": [
+        0
+      ],
+      "temperature": 0.0,
+      "avg_logprob": 0.0,
+      "compression_ratio": 0.0,
+      "no_speech_prob": 0.0,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "It",
+          "start": 119.493,
+          "end": 119.593,
+          "confidence": 0.826
+        },
+        {
+          "text": "has",
+          "start": 119.653,
+          "end": 120.374,
+          "confidence": 0.745
+        },
+        {
+          "text": "an",
+          "start": 120.414,
+          "end": 120.475,
+          "confidence": 0.766
+        },
+        {
+          "text": "acoustic",
+          "start": 120.515,
+          "end": 120.956,
+          "confidence": 0.849
+        },
+        {
+          "text": "mode",
+          "start": 120.996,
+          "end": 121.156,
+          "confidence": 0.693
+        },
+        {
+          "text": "if",
+          "start": 121.176,
+          "end": 121.256,
+          "confidence": 0.992
+        },
+        {
+          "text": "you",
+          "start": 121.276,
+          "end": 121.376,
+          "confidence": 0.995
+        },
+        {
+          "text": "want",
+          "start": 121.416,
+          "end": 121.557,
+          "confidence": 0.876
+        },
+        {
+          "text": "to",
+          "start": 121.577,
+          "end": 121.637,
+          "confidence": 0.876
+        },
+        {
+          "text": "plug",
+          "start": 121.697,
+          "end": 121.917,
+          "confidence": 0.894
+        },
+        {
+          "text": "in",
+          "start": 121.937,
+          "end": 122.018,
+          "confidence": 0.814
+        },
+        {
+          "text": "an",
+          "start": 122.058,
+          "end": 122.098,
+          "confidence": 0.974
+        },
+        {
+          "text": "acoustic",
+          "start": 122.158,
+          "end": 122.579,
+          "confidence": 0.887
+        },
+        {
+          "text": "guitar.",
+          "start": 122.599,
+          "end": 122.919,
+          "confidence": 0.904
         }
       ]
     },
     {
       "id": 30,
       "seek": 0,
-      "start": 114.466,
-      "end": 115.608,
-      "text": "And I think it's the great",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "And",
-          "start": 114.466,
-          "end": 114.587,
-          "confidence": 0.866
-        },
-        {
-          "text": "I",
-          "start": 114.607,
-          "end": 114.667,
-          "confidence": 0.416
-        },
-        {
-          "text": "think",
-          "start": 114.727,
-          "end": 114.907,
-          "confidence": 0.983
-        },
-        {
-          "text": "it's",
-          "start": 114.967,
-          "end": 115.107,
-          "confidence": 0.916
-        },
-        {
-          "text": "the",
-          "start": 115.227,
-          "end": 115.348,
-          "confidence": 0.895
-        },
-        {
-          "text": "great",
-          "start": 115.408,
-          "end": 115.608,
-          "confidence": 0.831
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "seek": 0,
-      "start": 116.01,
-      "end": 119.011,
-      "text": " is the value for the bug in the amplifiers right now.",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "is",
-          "start": 116.01,
-          "end": 116.191,
-          "confidence": 0.72
-        },
-        {
-          "text": "the",
-          "start": 116.272,
-          "end": 116.453,
-          "confidence": 0.856
-        },
-        {
-          "text": "value",
-          "start": 116.554,
-          "end": 116.836,
-          "confidence": 0.77
-        },
-        {
-          "text": "for",
-          "start": 116.856,
-          "end": 117.017,
-          "confidence": 0.903
-        },
-        {
-          "text": "the",
-          "start": 117.037,
-          "end": 117.118,
-          "confidence": 0.827
-        },
-        {
-          "text": "bug",
-          "start": 117.178,
-          "end": 117.42,
-          "confidence": 0.931
-        },
-        {
-          "text": "in",
-          "start": 117.46,
-          "end": 117.541,
-          "confidence": 0.917
-        },
-        {
-          "text": "the",
-          "start": 117.581,
-          "end": 117.662,
-          "confidence": 0.803
-        },
-        {
-          "text": "amplifiers",
-          "start": 117.742,
-          "end": 118.407,
-          "confidence": 0.746
-        },
-        {
-          "text": "right",
-          "start": 118.528,
-          "end": 118.749,
-          "confidence": 0.932
-        },
-        {
-          "text": "now.",
-          "start": 118.83,
-          "end": 119.011,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "seek": 0,
-      "start": 119.453,
-      "end": 122.919,
-      "text": " out there it has an acoustic mode if you want to plug in an acoustic guitar",
-      "tokens": [
-        0
-      ],
-      "temperature": 0.0,
-      "avg_logprob": 0.0,
-      "compression_ratio": 0.0,
-      "no_speech_prob": 0.0,
-      "confidence": 0.0,
-      "words": [
-        {
-          "text": "out",
-          "start": 119.453,
-          "end": 119.593,
-          "confidence": 0.997
-        },
-        {
-          "text": "there",
-          "start": 119.633,
-          "end": 119.853,
-          "confidence": 0.861
-        },
-        {
-          "text": "it",
-          "start": 120.174,
-          "end": 120.254,
-          "confidence": 0.79
-        },
-        {
-          "text": "has",
-          "start": 120.274,
-          "end": 120.394,
-          "confidence": 0.87
-        },
-        {
-          "text": "an",
-          "start": 120.414,
-          "end": 120.455,
-          "confidence": 0.986
-        },
-        {
-          "text": "acoustic",
-          "start": 120.535,
-          "end": 120.956,
-          "confidence": 0.856
-        },
-        {
-          "text": "mode",
-          "start": 120.976,
-          "end": 121.156,
-          "confidence": 0.533
-        },
-        {
-          "text": "if",
-          "start": 121.196,
-          "end": 121.256,
-          "confidence": 0.759
-        },
-        {
-          "text": "you",
-          "start": 121.276,
-          "end": 121.396,
-          "confidence": 0.935
-        },
-        {
-          "text": "want",
-          "start": 121.416,
-          "end": 121.557,
-          "confidence": 0.717
-        },
-        {
-          "text": "to",
-          "start": 121.577,
-          "end": 121.657,
-          "confidence": 0.866
-        },
-        {
-          "text": "plug",
-          "start": 121.697,
-          "end": 121.917,
-          "confidence": 0.76
-        },
-        {
-          "text": "in",
-          "start": 121.937,
-          "end": 122.018,
-          "confidence": 0.821
-        },
-        {
-          "text": "an",
-          "start": 122.058,
-          "end": 122.098,
-          "confidence": 0.839
-        },
-        {
-          "text": "acoustic",
-          "start": 122.158,
-          "end": 122.559,
-          "confidence": 0.781
-        },
-        {
-          "text": "guitar",
-          "start": 122.579,
-          "end": 122.919,
-          "confidence": 0.905
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "seek": 0,
       "start": 123.32,
       "end": 127.906,
-      "text": " So this is why Boscatana is the best amplifier for the beginners.",
+      "text": " So this is why Bose Katana is the best amplifier for the beginners.",
       "tokens": [
         0
       ],
@@ -2272,74 +2209,80 @@
         {
           "text": "So",
           "start": 123.32,
-          "end": 123.48,
-          "confidence": 0.902
+          "end": 123.46,
+          "confidence": 0.886
         },
         {
           "text": "this",
           "start": 123.56,
-          "end": 123.741,
-          "confidence": 0.929
+          "end": 123.721,
+          "confidence": 0.999
         },
         {
           "text": "is",
-          "start": 123.821,
+          "start": 123.801,
           "end": 123.881,
-          "confidence": 0.997
+          "confidence": 1.0
         },
         {
           "text": "why",
           "start": 123.961,
-          "end": 124.241,
-          "confidence": 0.783
+          "end": 124.221,
+          "confidence": 0.834
         },
         {
-          "text": "Boscatana",
-          "start": 124.642,
-          "end": 125.343,
-          "confidence": 0.957
+          "text": "Bose",
+          "start": 124.622,
+          "end": 124.822,
+          "confidence": 0.682
+        },
+        {
+          "text": "Katana",
+          "start": 124.842,
+          "end": 125.323,
+          "confidence": 0.861
         },
         {
           "text": "is",
-          "start": 125.523,
-          "end": 125.603,
-          "confidence": 0.778
+          "start": 125.503,
+          "end": 125.583,
+          "confidence": 0.766
         },
         {
           "text": "the",
-          "start": 125.663,
-          "end": 125.763,
-          "confidence": 0.989
+          "start": 125.643,
+          "end": 125.743,
+          "confidence": 0.852
         },
         {
           "text": "best",
           "start": 125.863,
-          "end": 126.244,
-          "confidence": 0.705
+          "end": 126.204,
+          "confidence": 0.92
         },
         {
           "text": "amplifier",
           "start": 126.424,
-          "end": 127.085,
-          "confidence": 0.958
+          "end": 127.065,
+          "confidence": 0.999
         },
         {
           "text": "for",
-          "start": 127.185,
+          "start": 127.165,
           "end": 127.345,
-          "confidence": 0.991
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 127.405,
-          "end": 127.485,
-          "confidence": 0.91
+          "start": 127.385,
+          "end": 127.465,
+          "confidence": 0.89
         },
         {
           "text": "beginners.",
           "start": 127.505,
           "end": 127.906,
-          "confidence": 0.889
+          "confidence": 0.981
         }
       ]
     }
